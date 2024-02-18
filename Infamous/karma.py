@@ -16,13 +16,13 @@ PM_START_TEXT = "*ʜᴇʏ ɪ ᴀᴍ ᴀʟɪᴠᴇ ʙᴀʙʏ*"
 GROUP_START_BTN = [
     [
         InlineKeyboardButton(
-            text="⇦ ADD ME ⇨",
+            text="𝗛𝗜𝗝𝗔𝗖𝗞 𝗠𝗘",
             url=f"https://t.me/{BOT_USERNAME}?startgroup=true",
         ),
     ],
     [
-        InlineKeyboardButton(text="SUPPORT", url=f"https://t.me/{SUPPORT_CHAT}"),
-        InlineKeyboardButton(text="CREATOR", url=f"tg://user?id={OWNER_ID}"),
+        InlineKeyboardButton(text="𝗦𝗨𝗣𝗣𝗢𝗥𝗧", url=f"https://t.me/{SUPPORT_CHAT}"),
+        InlineKeyboardButton(text="𝗖𝗥𝗘𝗔𝗧𝗢𝗥", url=f"tg://user?id={OWNER_ID}"),
     ],
 ]
 
